@@ -7,4 +7,5 @@
 #### Tools/libraries Used:
 1. Python (Programming Language)
 2. PandaSQL (Python Library to execute SQL commands)
-3. Jupyter Notebook
+3. Pandas (Python Library to load and explore data)
+4. Jupyter Notebook
